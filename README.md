@@ -27,8 +27,7 @@ Data is loaded from:
 
 phonebook.csv
 
-yaml
-Copy code
+
 
 (One entry per line — comma-separated)
 
@@ -93,13 +92,14 @@ If found → result displays in a formatted table.
 ### 🎨 Colorful Unicode Table Output
 
 Example display:
-
+```text
 ┏━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ No.  ┃ Name                         ┃ Phone Number         ┃ City                    ┃
 ┣━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 1    ┃ Karawan El Sharqi            ┃ 01012345678          ┃ Ottawa                  ┃
 ┃ 2    ┃ John Smith                   ┃ 01198765432          ┃ Giza                    ┃
 ┗━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 
 
@@ -107,6 +107,7 @@ Example display:
 
 ## 🏗️ Project Structure
 
+```text
 project/
 │
 ├── include/
@@ -125,6 +126,7 @@ project/
 │
 ├── phonebook.csv
 └── README.md
+```
 
 
 
@@ -213,7 +215,7 @@ A terminal that supports ANSI escape colors
 UTF-8 font recommended
 
 ❤️ Author
-Powerd by Yousef Essam 
+Powerd by Yousef Essam for learning purposes.
 Phonebook Manager created as a learning project for:
 
 ✔ Data structures
