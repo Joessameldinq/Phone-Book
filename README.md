@@ -207,14 +207,15 @@ Input validation
 
 Unicode-safe width handling
 
-🛡️ Requirements
+### 🛡️ Requirements
 C99+
 
 A terminal that supports ANSI escape colors
 
 UTF-8 font recommended
 
-❤️ Author
+### ❤️ Author
+
 Powerd by Yousef Essam for learning purposes.
 Phonebook Manager created as a learning project for:
 
