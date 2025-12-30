@@ -186,9 +186,11 @@ Binary search works on sorted arrays and returns a pointer to the entry.
 📥 Input File Format
 phonebook.csv
 
+```text
 Name,Phone Number,City
 John Smith,01012345678,Cairo
 Sara Mohamed,01222222222,Alexandria
+```
 ...
 
 
